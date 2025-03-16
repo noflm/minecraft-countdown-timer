@@ -9,4 +9,4 @@ bossbar set cd_timer:time players @a
 bossbar set cd_timer:time visible true
 
 # Start Countdown
-$function utility:timer {name:$(name)}
+$function utility:timer {display:"$(name)"}
