@@ -1,8 +1,6 @@
 # CountDown Timer
 MinecraftのBoss Barを使用したカウントダウンタイマーを実現するデータパック。
 
-フォーク元はサーバー再起動のためのカウントダウン用だがただのカウントダウンタイマーとして改変。
-
 # 使い方
 
 zipを展開し、`world/datapacks`に配置。
